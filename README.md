@@ -8,15 +8,15 @@ These scripts were used to assemble, annotating, multiple sequence aligning and 
 All scripts are written in Bash, or in Python.
 
 Dependencies: 
-- minimap2,
-- SAMtools,
-- IGV OR Geneious,
-- BCFtools,
-- Muscle,
-- BioPython,
-- RAxMLHPC,
-- treeannotator,
-- FigTree. 
+- minimap2
+- SAMtools
+- IGV OR Geneious
+- BCFtools
+- Muscle
+- BioPython
+- RAxMLHPC
+- treeannotator
+- FigTree
 
 File prerequisites:
   - Filtered and Quality-assessed Illumina reads in FASTA format.
